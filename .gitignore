@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.vite/
+coverage/
+public/tesseract/
+*.tgz
+*.tar.gz
+.github-checkout/
+shipstation_pullList.pdf
+tests/fixtures/*.pdf
+

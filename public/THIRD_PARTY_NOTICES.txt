@@ -1,0 +1,10 @@
+Pull List Sorter includes the following browser-side open source software:
+
+- PDF.js / pdfjs-dist — Apache License 2.0
+  https://github.com/mozilla/pdf.js
+- Tesseract.js and tesseract.js-core — Apache License 2.0
+  https://github.com/naptha/tesseract.js
+- English trained data from @tesseract.js-data/eng — MIT License
+  https://github.com/naptha/tessdata
+
+The application does not send selected PDFs to these projects or to any server.
